@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  text-align: cetner;
+}
+header {
+  background-color: #ffe400;
+  height: 50px;
+  line-height: 50px;
+}
+nav {
+  background-color: #b2ebf4;
+  height: 50px;
+  line-height: 50px;
+}
+main  {
+  background-color: #4b0cf7;
+  float: left;
+  width: 400px;
+  height: 200px;
+  line-height: 200px;
+}
+section {
+  background-color: #ffc19e;
+  float: left;
+  width: 300px;
+  height: 200px;
+  line-height: 200px;
+}
+aside  {
+  background-color: #86e57f;
+  float: left;
+  width: 150px;
+  height: 200px;
+  line-height: 200px;
+}
+footer {
+  background-color: #f361dc;
+  clear: both;
+  height: 50px;
+  line-height: 50px;
+}
